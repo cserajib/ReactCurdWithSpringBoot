@@ -1,0 +1,8 @@
+https://github.com/RameshMF?tab=repositories
+
+https://github.com/RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App
+
+npm install react-scripts --save
+
+use employee_management_system;
+select * from employees;
